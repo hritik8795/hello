@@ -1,0 +1,9 @@
+.form {
+  width:70vw;
+  padding:10vw;
+  padding-left:40vw;
+} 
+.registration {
+  display:flex;
+  justify-content: center;
+}
